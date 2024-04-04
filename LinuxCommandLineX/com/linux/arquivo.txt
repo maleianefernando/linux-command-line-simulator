@@ -1,0 +1,1 @@
+Eu sou um arquivo "txt", criado e editado pela LinuxCommandLine da autoria do programador Fernando Maleiane.
